@@ -1,6 +1,11 @@
 # simplex_method
 A multi-functional for solving linear programming problems with simplex method, which could output process and intermediate variable values.
 
+# Usage (for Python)
+1. Download the package to the path where your program is.
+2. Import this package as importing others.
+Examples could be found in exercise documents.
+
 # Version 1.0
 Date 2025/04/06
 
